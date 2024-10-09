@@ -5,6 +5,19 @@ A place to store the pre-built WasmEdge plugins
 
 ### Stable Diffusion
 
+#### 0.14.1-plugin-lts (8a2d406)
+
+```
+1062d5a94de5ad724d3868aac6e95f8489c3d8876a3fbbea05376710bef17a7e  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-darwin_arm64.tar.gz
+514fb4a8de9cc5a8d365c0450f8d59c2ed9d449ecb5b73756b096462244b5a6a  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-darwin_x86_64.tar.gz
+8eec0311bd8e1a3bcf93f306ffd39222f515655b80631bb6eebea8e5af15f184  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-manylinux_2_28_aarch64.tar.gz
+dc9436f3564a01fa73214c00a6a3fd4a05a957c91429820aa66de77020c7c39d  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-manylinux_2_28_x86_64.tar.gz
+303d6319f81b88b006326940dee00e0460b579dbffba62c38679db9663363f8b  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-ubuntu20.04_aarch64.tar.gz
+0306c6803ef5757385ad5f7b179d36abcb30ca8758f9f32e3296dd728fe182e5  WasmEdge-plugin-wasmedge_stablediffusion-0.14.1-ubuntu20.04_x86_64.tar.gz
+059d7bd7d913684fa0bdd800ddb22b05af9e57bacb1a65fa036aa84b059b6b71  WasmEdge-plugin-wasmedge_stablediffusion-cuda-11.3-0.14.1-ubuntu20.04_x86_64.tar.gz
+b54d8f3812c4d813ed03340b471459fd854bc60857dc04fe8cb364406f2155fc  WasmEdge-plugin-wasmedge_stablediffusion-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
+```
+
 #### 0.14.1 SHA256 Checksums
 
 ```
