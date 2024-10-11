@@ -5,6 +5,21 @@ A place to store the pre-built WasmEdge plugins
 
 ### Stable Diffusion
 
+#### 0.14.1-plugin-lts (1709a5c3)
+
+* Bugfix: fix the segfault issue when reusing the same context.
+
+```
+ca0f5abc1cfee53a80208cdddf9d3b1d50711f3dfa0c0eeb02f5b958c132bdeb  WasmEdge-plugin-stable_diffusion-0.14.1-darwin_arm64.tar.gz
+401d3d1002e688955d157fc8972564c216133438bcf867e30b215c6f9132a8c4  WasmEdge-plugin-stable_diffusion-0.14.1-darwin_x86_64.tar.gz
+34272155728a8f06f816b1965af72cb2f4ab9b806e4648646b238efdc57b096a  WasmEdge-plugin-stable_diffusion-0.14.1-manylinux_2_28_aarch64.tar.gz
+be4d921669bd2e786ac4ec729e55ab3497ad2794d499fffd690b8ee75d46dcd0  WasmEdge-plugin-stable_diffusion-0.14.1-manylinux_2_28_x86_64.tar.gz
+4210641a2e5ced3682ffdfeee72825c11727396666e1cc20b6490c6ea9b21efb  WasmEdge-plugin-stable_diffusion-0.14.1-ubuntu20.04_aarch64.tar.gz
+9a273e1a35a37d321d3a6eb292123b4fff0e8b616c7444dffc7b14aefb32460a  WasmEdge-plugin-stable_diffusion-0.14.1-ubuntu20.04_x86_64.tar.gz
+712d24b0c91f0f7fbcf17c3cebb5858fb33680bb93bbe02bb53418ed031af5d8  WasmEdge-plugin-stable_diffusion-cuda-11.3-0.14.1-ubuntu20.04_x86_64.tar.gz
+baddd11aeb2652855e3457c17f14d67ceae4bef36bf238da026930a1e580ed63  WasmEdge-plugin-stable_diffusion-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
+```
+
 #### 0.14.1-plugin-lts (8a2d406)
 
 ```
