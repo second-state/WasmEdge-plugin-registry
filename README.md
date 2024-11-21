@@ -3,6 +3,38 @@ A place to store the pre-built WasmEdge plugins
 
 ## Changelog
 
+### 0.14.1-plugin-lts ()
+
+* Date: 2024-11-21
+
+```
+a72a22705e3c1f04d610a7e2dd222a5a884c021c1ed1ce9e632681eeba84223d  WasmEdge-plugin-stable_diffusion-0.14.1-darwin_arm64.tar.gz
+f74f526af0765d4ac81130dc5192985f6bf2926b51810253384ba6e086dd834e  WasmEdge-plugin-stable_diffusion-0.14.1-darwin_x86_64.tar.gz
+520e66d9e9b227f829b729d913b2ac1afcec7f2df0b3e972f537e72111c10146  WasmEdge-plugin-stable_diffusion-0.14.1-manylinux_2_28_aarch64.tar.gz
+2f293395a0562365f3bd8a00fc5a710567bb4136a7cbd1c2d308b05cc27c8e17  WasmEdge-plugin-stable_diffusion-0.14.1-manylinux_2_28_x86_64.tar.gz
+35b766d79d5feb6c8cbbb45e7f2cd55e500030d484f43b941724dea86c93a267  WasmEdge-plugin-stable_diffusion-0.14.1-ubuntu20.04_aarch64.tar.gz
+1cf7ebd6f695821ed20d8011aaafd2171e007bdf7021143427acf284ec186ff8  WasmEdge-plugin-stable_diffusion-0.14.1-ubuntu20.04_x86_64.tar.gz
+ec913884f055cb486257fdf03d4094a38a9ce41fcb474ef7a3caabbb773d1cc9  WasmEdge-plugin-stable_diffusion-cuda-11.3-0.14.1-ubuntu20.04_x86_64.tar.gz
+59e02476819cf5c356bef2649a6ebc159f2f7d649f76e373140ad367657833dc  WasmEdge-plugin-stable_diffusion-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
+a2c5a893ba55eba8c3c9dbb9d395c88a824216d23f0cb1aced86c62742443c86  WasmEdge-plugin-wasi_nn-ggml-0.14.1-darwin_arm64.tar.gz
+a2110ae3041f2b87d36646063a91d4f0d38af030bfdb027e5802723abfb82cd0  WasmEdge-plugin-wasi_nn-ggml-0.14.1-darwin_x86_64.tar.gz
+649bedb5c5e6b2050e1d33154cbb7413882785cee71f26f885290485992ac8f2  WasmEdge-plugin-wasi_nn-ggml-0.14.1-manylinux_2_28_aarch64.tar.gz
+e7cc630a33f81e6703334a93a3e13110178801c7fb80b3c3dc93df76bf1b83cc  WasmEdge-plugin-wasi_nn-ggml-0.14.1-manylinux_2_28_x86_64.tar.gz
+7fd4c714e9fb8a11401ff6cc788c6cccbc55ebfcbe186cc7c391d8366dfeab79  WasmEdge-plugin-wasi_nn-ggml-0.14.1-ubuntu20.04_aarch64.tar.gz
+aa186a666c165dfe7bd9d84dd3622693ab35595c5063c505bd619e01105ba8b0  WasmEdge-plugin-wasi_nn-ggml-0.14.1-ubuntu20.04_x86_64.tar.gz
+028e39ef6984067bebd486dc01f33b4c9a382e22b5069f15ef5af5c45f3fd32a  WasmEdge-plugin-wasi_nn-ggml-cuda-11.3-0.14.1-ubuntu20.04_x86_64.tar.gz
+21770b22a7f2e4d444530a66ea06c7ff48bb4b16aa450b51be2c92f966ceb0cd  WasmEdge-plugin-wasi_nn-ggml-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
+3aa63fbd75acaab0b2d711ebd5f2673a7b927cfbd7882cbeff2c4fe63794b27e  WasmEdge-plugin-wasi_nn-ggml-noavx-0.14.1-ubuntu20.04_x86_64.tar.gz
+15d33cee8cd4d8b417e53d42a27c11c050cfa9bad31c5b62cfdfb60483a70e91  WasmEdge-plugin-wasi_nn-whisper-0.14.1-darwin_arm64.tar.gz
+06cdee08331f67d2b95b8663c23843e441d2dd674d455422cfa909e0663292ca  WasmEdge-plugin-wasi_nn-whisper-0.14.1-darwin_x86_64.tar.gz
+b63d3309f0a7ea90a77124eecdaac42932fc2a720678f5c3fd0c4a392da75d2b  WasmEdge-plugin-wasi_nn-whisper-0.14.1-manylinux_2_28_aarch64.tar.gz
+c89270fd8af402502fef5bbe23bf10b03b3c7e0b2b2b25ddf02d429d6ad9ee25  WasmEdge-plugin-wasi_nn-whisper-0.14.1-manylinux_2_28_x86_64.tar.gz
+dec3ea7e16c15c1c466f9a75a7b9d0289fa260de46ffd95a04be072ec63493a0  WasmEdge-plugin-wasi_nn-whisper-0.14.1-ubuntu20.04_aarch64.tar.gz
+91f724aa7bee1600bfc2a6bbc0b6b7a897d16dd03f5b87d4264d0c208fa49b52  WasmEdge-plugin-wasi_nn-whisper-0.14.1-ubuntu20.04_x86_64.tar.gz
+61c0d96d3a8b4984d3a93eb23f7b2b18b79c004aca02f01d6f2e0106d4ad3598  WasmEdge-plugin-wasi_nn-whisper-cuda-11.3-0.14.1-ubuntu20.04_x86_64.tar.gz
+97cbebbaa49dc8ddca10f8541c3fa8837b10eb32e63c5256f6e0837a55c70791  WasmEdge-plugin-wasi_nn-whisper-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
+```
+
 ### Stable Diffusion
 
 #### 0.14.1-plugin-lts (1709a5c3)
