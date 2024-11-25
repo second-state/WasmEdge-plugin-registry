@@ -3,7 +3,7 @@ A place to store the pre-built WasmEdge plugins
 
 ## Changelog
 
-### 0.14.1-plugin-lts ()
+### 0.14.1-plugin-lts (d259eed)
 
 * Date: 2024-11-21
 
