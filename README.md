@@ -26,7 +26,7 @@ aa186a666c165dfe7bd9d84dd3622693ab35595c5063c505bd619e01105ba8b0  WasmEdge-plugi
 21770b22a7f2e4d444530a66ea06c7ff48bb4b16aa450b51be2c92f966ceb0cd  WasmEdge-plugin-wasi_nn-ggml-cuda-12.0-0.14.1-ubuntu20.04_x86_64.tar.gz
 3aa63fbd75acaab0b2d711ebd5f2673a7b927cfbd7882cbeff2c4fe63794b27e  WasmEdge-plugin-wasi_nn-ggml-noavx-0.14.1-ubuntu20.04_x86_64.tar.gz
 95c7df44f79922b128323100d5c301a858098e0a8a2f2b3fce335635aa2bc572  WasmEdge-plugin-wasi_nn-whisper-0.14.1-darwin_arm64.tar.gz
-06cdee08331f67d2b95b8663c23843e441d2dd674d455422cfa909e0663292ca  WasmEdge-plugin-wasi_nn-whisper-0.14.1-darwin_x86_64.tar.gz
+b910b13bc3a88cd02b7336c4ecbae8a1869785b60b50c7cab9f2a41ff10a2dfd  WasmEdge-plugin-wasi_nn-whisper-0.14.1-darwin_x86_64.tar.gz
 b63d3309f0a7ea90a77124eecdaac42932fc2a720678f5c3fd0c4a392da75d2b  WasmEdge-plugin-wasi_nn-whisper-0.14.1-manylinux_2_28_aarch64.tar.gz
 c89270fd8af402502fef5bbe23bf10b03b3c7e0b2b2b25ddf02d429d6ad9ee25  WasmEdge-plugin-wasi_nn-whisper-0.14.1-manylinux_2_28_x86_64.tar.gz
 dec3ea7e16c15c1c466f9a75a7b9d0289fa260de46ffd95a04be072ec63493a0  WasmEdge-plugin-wasi_nn-whisper-0.14.1-ubuntu20.04_aarch64.tar.gz
